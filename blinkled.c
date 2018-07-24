@@ -29,7 +29,7 @@ static void soft_delay(volatile uint16_t N)
 }
 
 /**
- * soft_delay() - linear congruential generator function
+ * jsw_rand() - linear congruential generator function
  * Generate random numbers.
  * for more http://www.eternallyconfuzzled.com/tuts/algorithms/jsw_tut_rand.aspx
  */
